@@ -38,3 +38,15 @@
 - Update Data `UPDATE students SET cohort_number = 23, weird_thing = 'Preacher with a tattoo???' WHERE id = 2;`
 
 - Delete Data `DELETE FROM students WHERE id = 3;`
+
+#### Aggregate Functions
+
+- COUNT
+- MIN
+- MAX
+- SUM
+
+##### Other stuff
+
+- ORDER BY ASC/DESC
+- GROUP BY
